@@ -1,1 +1,1 @@
-# color_memory
+# ColorMemory
