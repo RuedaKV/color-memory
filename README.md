@@ -1,3 +1,3 @@
 # Color Memory
 
-![Alt Text](http://g.recordit.co/PKI4eFqLbh.gif)
+![Alt Text](https://github.com/RuedaKV/color-memory/blob/main/color_memory.gif
